@@ -59,14 +59,9 @@ For more details see [_our website_](http://www.picb.ac.cn/compsysg/index.php).
 
    <div class="navbar-collapse collapse"> 
      <ul class="nav navbar-nav"> 
-      <li class="active"><a href="./index.php">Home</a></li> 
-      <li><a href="./Research/Research.php">Research</a></li> 
-      <li><a href="./News/News.php">News</a></li>
-      <li><a href="./Publication/Publication.php">Publications</a></li>
-      <li><a href="./Software/Software.php">Software</a></li>
-      <li><a href="./Album/Album.php">Album</a></li>
-      <li ><a href="./Article/Article.php">Article</a></li>
-      <li><a href="./Member/Member.php">Members</a></li>
-      <li><a href="./Contact/Contact.php">Contact</a></li>
+      <li class="active"><a href="./index.md">Home</a></li> 
+      <li><a href="./Projects.md">Research</a></li> 
+      <li><a href="./People.md">People</a></li>
+      <li><a href="./Papers">Publications</a></li>
      </ul> 
     </div> 
