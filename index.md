@@ -1,7 +1,7 @@
 ## Welcome to Aeteschendorff Lab
-* [Papers](https://aeteschendorff-lab.github.io/)
-* [People](https://aeteschendorff-lab.github.io/)
-* [Projects](https://aeteschendorff-lab.github.io/)
+* [Papers](https://aeteschendorff-lab.github.io/papers)
+* [People](https://aeteschendorff-lab.github.io/people)
+* [Projects](https://aeteschendorff-lab.github.io/projects)
 
 
   
