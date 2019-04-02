@@ -121,9 +121,9 @@ For more details see [_our website_](http://www.picb.ac.cn/compsysg/index.php).
  -moz-transition:border linear .2s,-moz-box-shadow linear .5s; -webkit-transition:border linear .2s,-webkit-box-shadow linear .5s; outline:none;border-color:rgba(0,153,204,.75);
  box-shadow:0 0 8px rgba(0,153,204,.5); -moz-box-shadow:0 0 8px rgba(0,153,204,.5); -webkit-box-shadow:0 0 8px rgba(0,153,204,3);"> 
        <div style="width=90%;background-color:#fff;padding:5px" id="pan1">
-           <h3><b><a href="./Research/Research.php#one">Computational Systems Biology Analysis of Single-Cell data</a></b></h3>
+           <h3><b><a href="http://www.picb.ac.cn/compsysg/Research/Research.php#one">Computational Systems Biology Analysis of Single-Cell data</a></b></h3>
          
-             <img src="./Main/Fig1scentBR.png" alt="examiner" width="70%">
+             <img src="http://www.picb.ac.cn/compsysg/Main/Fig1scentBR.png" alt="examiner" width="70%">
              <p>We are developing novel computational and statistical methods to help analyse and better interpret single-cell omic data, with a particular focus on systems biological aspects.</p>
 
         </div> 
