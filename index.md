@@ -63,7 +63,7 @@ For more details see [_our website_](http://www.picb.ac.cn/compsysg/index.php).
 ![img](http://www.picb.ac.cn/compsysg/Main/pic_3.png)
  <!--Research Focus-->  
   <div style="background-color:#E8F0F4;">
-     <div id="content" class="container marketing" style="padding:10px;width:80%"> 
+     <div id="content" class="container marketing" style="padding:10px;width:100%"> 
     <!-- START THE FEATURETTES --> 
     <div class="row featurette"> 
      <div class="col-sm-6 col-xs-12 col-sm-height" style="text-align:center"> 
@@ -90,7 +90,7 @@ For more details see [_our website_](http://www.picb.ac.cn/compsysg/index.php).
      </div> 
     </div> 
    </div>      
-      <div id="content" class="container marketing" style="padding:10px;width:80%"> 
+      <div id="content" class="container marketing" style="padding:10px;width:100%"> 
     <!-- START THE FEATURETTES --> 
     <div class="row featurette"> 
      <div class="col-sm-6 col-xs-12 col-sm-height" style="text-align:center"> 
@@ -104,7 +104,7 @@ For more details see [_our website_](http://www.picb.ac.cn/compsysg/index.php).
         </div> 
       </div>  <!--Research Focus-->  
   <div style="background-color:#E8F0F4;">
-     <div id="content" class="container marketing" style="padding:10px;width:80%"> 
+     <div id="content" class="container marketing" style="padding:10px;width:100%"> 
     <!-- START THE FEATURETTES --> 
     <div class="row featurette"> 
      <div class="col-sm-6 col-xs-12 col-sm-height" style="text-align:center"> 
@@ -121,7 +121,6 @@ For more details see [_our website_](http://www.picb.ac.cn/compsysg/index.php).
     </div> 
    </div>    
   </div>
-
    <!--Research Focus over-->  
 
 
