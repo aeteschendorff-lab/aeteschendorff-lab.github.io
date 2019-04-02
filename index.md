@@ -57,3 +57,16 @@ We use innovative strategies drawing on methods from graph theory/network scienc
 For more details see [_our website_](http://www.picb.ac.cn/compsysg/index.php).
 ![img](http://www.picb.ac.cn/compsysg/Main/pic_3.png)
 
+   <div class="navbar-collapse collapse"> 
+     <ul class="nav navbar-nav"> 
+      <li class="active"><a href="./index.php">Home</a></li> 
+      <li><a href="./Research/Research.php">Research</a></li> 
+      <li><a href="./News/News.php">News</a></li>
+      <li><a href="./Publication/Publication.php">Publications</a></li>
+      <li><a href="./Software/Software.php">Software</a></li>
+      <li><a href="./Album/Album.php">Album</a></li>
+      <li ><a href="./Article/Article.php">Article</a></li>
+      <li><a href="./Member/Member.php">Members</a></li>
+      <li><a href="./Contact/Contact.php">Contact</a></li>
+     </ul> 
+    </div> 
