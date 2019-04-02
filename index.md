@@ -41,7 +41,7 @@ We develop and apply advanced statistical methodology to enable a more meaningfu
 
 
 ### Research Focus
-#### Computational Systems Biology Analysis of Single-Cell data
+##### Computational Systems Biology Analysis of Single-Cell data
 #### Epigenomics of Ageing, Stem Cells and Cancer
 #### ell-type heterogeneity and deconvolution for EWAS
 #### Cancer System-Omics and Network Physics
