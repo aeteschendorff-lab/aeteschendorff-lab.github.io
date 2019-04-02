@@ -60,7 +60,7 @@ For more details see [_our website_](http://www.picb.ac.cn/compsysg/index.php).
    <div class="navbar-collapse collapse"> 
      <ul class="nav navbar-nav"> 
       <li class="active"><a href="./index.md">Home</a></li> 
-      <li><a href="./Projects.md">Research</a></li> 
+      <li><a href="./Projects.md">Projects</a></li> 
       <li><a href="./People.md">People</a></li>
       <li><a href="./Papers">Publications</a></li>
      </ul> 
