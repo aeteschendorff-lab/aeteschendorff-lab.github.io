@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to Aeteschendorff Lab
 
-You can use the [editor on GitHub](https://github.com/aeteschendorff-lab/aeteschendorff-lab.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+We develop and apply advanced statistical methodology to enable a more meaningful interpretation of large scale multi-dimensional cancer-omic data. Specifically, we are applying tools from network physics, graph theory, Bayesian statistics, signal processing and machine learning to help address some of the outstanding challenges in the cancer genomics and epigenomics fields. We are particularly interested in using the language of networks and statistical mechanics to help tame the complexity of multi-dimensional medical genomic data, and to unravel the systems biology principles underlying complex genetic diseases like cancer.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 
 ### Markdown
 
