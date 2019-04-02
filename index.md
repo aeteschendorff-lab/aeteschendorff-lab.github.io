@@ -26,7 +26,7 @@ Syntax highlighted code block
 [paper](https://www.nature.com/articles/s41592-018-0213-x) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [GitHub Flavored Markdown](https://www.baidu.com).
 
 ### Jekyll Themes
 
