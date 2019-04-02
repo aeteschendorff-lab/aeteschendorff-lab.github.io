@@ -41,10 +41,10 @@ We develop and apply advanced statistical methodology to enable a more meaningfu
 
 
 ### Research Focus
-![img](http://www.picb.ac.cn/compsysg/Main/Fig1scentBR.png)
-![img](http://www.picb.ac.cn/compsysg/Main/Fig1revFMnew.png)
-![img](http://www.picb.ac.cn/compsysg/Main/Fig4nm-A.png)
-![img](http://www.picb.ac.cn/compsysg/Main/FigLungNetA.png)
+##Computational Systems Biology Analysis of Single-Cell data
+##Epigenomics of Ageing, Stem Cells and Cancer
+##Cell-type heterogeneity and deconvolution for EWAS
+##Cancer System-Omics and Network Physics
 ### Support or Contact
 For more details see [_our website_](http://www.picb.ac.cn/compsysg/index.php).
 
