@@ -1,7 +1,7 @@
 ## Welcome to Aeteschendorff Lab
    <div class="navbar-collapse collapse"> 
      <ul class="nav navbar-nav"> 
-      <li class="active"><a href="https://aeteschendorff-lab.github.io/">Home</a></li> 
+      <li class="active">[Home](https://aeteschendorff-lab.github.io/)</a></li> 
       <li><a href="./Projects.md">Projects</a></li> 
       <li><a href="./People.md">People</a></li>
       <li><a href="./Papers">Publications</a></li>
