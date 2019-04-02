@@ -1,5 +1,12 @@
 ## Welcome to Aeteschendorff Lab
-
+   <div class="navbar-collapse collapse"> 
+     <ul class="nav navbar-nav"> 
+      <li class="active"><a href="./index.md">Home</a></li> 
+      <li><a href="./Projects.md">Projects</a></li> 
+      <li><a href="./People.md">People</a></li>
+      <li><a href="./Papers">Publications</a></li>
+     </ul> 
+    </div> 
 We develop and apply advanced statistical methodology to enable a more meaningful interpretation of large scale multi-dimensional cancer-omic data. Specifically, we are applying tools from network physics, graph theory, Bayesian statistics, signal processing and machine learning to help address some of the outstanding challenges in the cancer genomics and epigenomics fields. We are particularly interested in using the language of networks and statistical mechanics to help tame the complexity of multi-dimensional medical genomic data, and to unravel the systems biology principles underlying complex genetic diseases like cancer.
 
 
@@ -57,11 +64,4 @@ We use innovative strategies drawing on methods from graph theory/network scienc
 For more details see [_our website_](http://www.picb.ac.cn/compsysg/index.php).
 ![img](http://www.picb.ac.cn/compsysg/Main/pic_3.png)
 
-   <div class="navbar-collapse collapse"> 
-     <ul class="nav navbar-nav"> 
-      <li class="active"><a href="./index.md">Home</a></li> 
-      <li><a href="./Projects.md">Projects</a></li> 
-      <li><a href="./People.md">People</a></li>
-      <li><a href="./Papers">Publications</a></li>
-     </ul> 
-    </div> 
+
