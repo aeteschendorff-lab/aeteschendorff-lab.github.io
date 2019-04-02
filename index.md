@@ -38,12 +38,13 @@ We develop and apply advanced statistical methodology to enable a more meaningfu
 
 * Teschendorff AE, et al. Age-dependent DNA methylation of genes that are suppressed in stem cells is a hallmark of cancer Genome Res (2010) [Click here for more info](http://genome.cshlp.org/content/early/2010/03/09/gr.103606.109)
 
+
+
+### Research Focus
+![img](http://www.picb.ac.cn/compsysg/Main/Fig1scentBR.png)
+![img](http://www.picb.ac.cn/compsysg/Main/Fig1revFMnew.png)
+![img](http://www.picb.ac.cn/compsysg/Main/Fig4nm-A.png)
+![img](http://www.picb.ac.cn/compsysg/Main/FigLungNetA.png)
+### Support or Contact
 For more details see [_our website_](http://www.picb.ac.cn/compsysg/index.php).
 
-
-![Image](http://www.picb.ac.cn/compsysg/Main/pic_3.png)
-
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
