@@ -72,10 +72,8 @@ For more details see [_our website_](http://www.picb.ac.cn/compsysg/index.php).
  box-shadow:0 0 8px rgba(0,153,204,.5); -moz-box-shadow:0 0 8px rgba(0,153,204,.5); -webkit-box-shadow:0 0 8px rgba(0,153,204,3);"> 
        <div style="width=90%;background-color:#fff;padding:5px" id="pan1">
            <h3><b><a href="http://www.picb.ac.cn/compsysg/Research/Research.php#one">Computational Systems Biology Analysis of Single-Cell data</a></b></h3>
-         
              <img src="http://www.picb.ac.cn/compsysg/Main/Fig1scentBR.png" alt="examiner" width="70%">
              <p>We are developing novel computational and statistical methods to help analyse and better interpret single-cell omic data, with a particular focus on systems biological aspects.</p>
-
         </div> 
       </div> 
      </div> 
@@ -84,17 +82,14 @@ For more details see [_our website_](http://www.picb.ac.cn/compsysg/index.php).
  -moz-transition:border linear .2s,-moz-box-shadow linear .5s; -webkit-transition:border linear .2s,-webkit-box-shadow linear .5s; outline:none;border-color:rgba(0,153,204,.75);
  box-shadow:0 0 8px rgba(0,153,204,.5); -moz-box-shadow:0 0 8px rgba(0,153,204,.5); -webkit-box-shadow:0 0 8px rgba(0,153,204,3);"> 
        <div style="width=90%;background-color:#fff;padding:5px" id="pan2">
-           <h3><b><a href="http://www.picb.ac.cn/compsysg/Research/Research.php#two">Epigenomics of Ageing, Stem Cells and Cancer</a></b></h3>
-           
+           <h3><b><a href="http://www.picb.ac.cn/compsysg/Research/Research.php#two">Epigenomics of Ageing, Stem Cells and Cancer</a></b></h3>         
              <img src="http://www.picb.ac.cn/compsysg/Main/Fig1revFMnew.png" alt="examiner" width="70%">
              <p> We are exploring how informative DNA methylation changes that accrue in normal cells as a function of age and exposure to risk factors are for predicting cancer risk. </p>
             </div> 
       </div> 
      </div> 
     </div> 
-   </div>
-      
-      
+   </div>      
       <div id="content" class="container marketing" style="padding:10px;width:80%"> 
     <!-- START THE FEATURETTES --> 
     <div class="row featurette"> 
@@ -103,11 +98,9 @@ For more details see [_our website_](http://www.picb.ac.cn/compsysg/index.php).
  -moz-transition:border linear .2s,-moz-box-shadow linear .5s; -webkit-transition:border linear .2s,-webkit-box-shadow linear .5s; outline:none;border-color:rgba(0,153,204,.75);
  box-shadow:0 0 8px rgba(0,153,204,.5); -moz-box-shadow:0 0 8px rgba(0,153,204,.5); -webkit-box-shadow:0 0 8px rgba(0,153,204,3);"> 
        <div style="width=90%;background-color:#fff;padding:5px" id="pan3">
-           <h3><b><a href="http://www.picb.ac.cn/compsysg/Research/Research.php#three">Cell-type heterogeneity and deconvolution for EWAS</a></b></h3>
-         
+           <h3><b><a href="http://www.picb.ac.cn/compsysg/Research/Research.php#three">Cell-type heterogeneity and deconvolution for EWAS</a></b></h3>    
              <img src="http://www.picb.ac.cn/compsysg/Main/Fig4nm-A.png" alt="examiner" width="70%">
              <p>We are exploring and developing statistical cell-type deconvolution methods to dissect cell-type heterogeneity aimed at epigenome studies performed in general complex tissues. </p>
-
         </div> 
       </div>  <!--Research Focus-->  
   <div style="background-color:#E8F0F4;">
@@ -116,43 +109,6 @@ For more details see [_our website_](http://www.picb.ac.cn/compsysg/index.php).
     <div class="row featurette"> 
      <div class="col-sm-6 col-xs-12 col-sm-height" style="text-align:center"> 
       <div class="mycontainer" style="position:relative;width:100%;background-color:#fff;min-height:250px;padding:10px; transition:border linear .2s,box-shadow linear .5s;
- -moz-transition:border linear .2s,-moz-box-shadow linear .5s; -webkit-transition:border linear .2s,-webkit-box-shadow linear .5s; outline:none;border-color:rgba(0,153,204,.75);
- box-shadow:0 0 8px rgba(0,153,204,.5); -moz-box-shadow:0 0 8px rgba(0,153,204,.5); -webkit-box-shadow:0 0 8px rgba(0,153,204,3);"> 
-       <div style="width=90%;background-color:#fff;padding:5px" id="pan1">
-           <h3><b><a href="http://www.picb.ac.cn/compsysg/Research/Research.php#one">Computational Systems Biology Analysis of Single-Cell data</a></b></h3>
-         
-             <img src="http://www.picb.ac.cn/compsysg/Main/Fig1scentBR.png" alt="examiner" width="70%">
-             <p>We are developing novel computational and statistical methods to help analyse and better interpret single-cell omic data, with a particular focus on systems biological aspects.</p>
-
-        </div> 
-      </div> 
-     </div> 
-     <div class="col-sm-6 col-xs-12 col-sm-height" style="text-align:center"> 
-      <div class="mycontainer" style="position:relative;width:100%;background-color:#fff;min-height:250px;padding:10px; transition:border linear .2s,box-shadow linear .5s;
- -moz-transition:border linear .2s,-moz-box-shadow linear .5s; -webkit-transition:border linear .2s,-webkit-box-shadow linear .5s; outline:none;border-color:rgba(0,153,204,.75);
- box-shadow:0 0 8px rgba(0,153,204,.5); -moz-box-shadow:0 0 8px rgba(0,153,204,.5); -webkit-box-shadow:0 0 8px rgba(0,153,204,3);"> 
-       <div style="width=90%;background-color:#fff;padding:5px" id="pan2">
-           <h3><b><a href="http://www.picb.ac.cn/compsysg/Research/Research.php#two">Epigenomics of Ageing, Stem Cells and Cancer</a></b></h3>
-           
-             <img src="http://www.picb.ac.cn/compsysg/Main/Fig1revFMnew.png" alt="examiner" width="70%">
-             <p> We are exploring how informative DNA methylation changes that accrue in normal cells as a function of age and exposure to risk factors are for predicting cancer risk. </p>
-            </div> 
-      </div> 
-     </div> 
-    </div> 
-   </div>
-      
-      
-      <div id="content" class="container marketing" style="padding:10px;width:80%"> 
-    <!-- START THE FEATURETTES --> 
-    <div class="row featurette"> 
-     <div class="col-sm-6 col-xs-12 col-sm-height" style="text-align:center"> 
-      <div class="mycontainer" style="position:relative;width:100%;background-color:#fff;min-height:500px;padding:10px; transition:border linear .2s,box-shadow linear .5s;
- -moz-transition:border linear .2s,-moz-box-shadow linear .5s; -webkit-transition:border linear .2s,-webkit-box-shadow linear .5s; outline:none;border-color:rgba(0,153,204,.75);
- box-shadow:0 0 8px rgba(0,153,204,.5); -moz-box-shadow:0 0 8px rgba(0,153,204,.5); -web
-     </div> 
-     <div class="col-sm-6 col-xs-12 col-sm-height" style="text-align:center"> 
-      <div class="mycontainer" style="position:relative;width:100%;background-color:#fff;min-height:500px;padding:10px; transition:border linear .2s,box-shadow linear .5s;
  -moz-transition:border linear .2s,-moz-box-shadow linear .5s; -webkit-transition:border linear .2s,-webkit-box-shadow linear .5s; outline:none;border-color:rgba(0,153,204,.75);
  box-shadow:0 0 8px rgba(0,153,204,.5); -moz-box-shadow:0 0 8px rgba(0,153,204,.5); -webkit-box-shadow:0 0 8px rgba(0,153,204,3);"> 
        <div style="width=90%;background-color:#fff;padding:5px" id="pan4">
