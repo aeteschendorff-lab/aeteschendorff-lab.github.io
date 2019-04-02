@@ -41,7 +41,7 @@ We develop and apply advanced statistical methodology to enable a more meaningfu
 
 
 ### Research Focus
-[###### Computational Systems Biology Analysis of Single-Cell data](http://www.picb.ac.cn/compsysg/Research/Research.php#one)
+###### Computational Systems Biology Analysis of Single-Cell data
 ![img](http://www.picb.ac.cn/compsysg/Main/Fig1scentBR.png)
 We are developing novel computational and statistical methods to help analyse and better interpret single-cell omic data, with a particular focus on systems biological aspects.
 ###### Epigenomics of Ageing, Stem Cells and Cancer
