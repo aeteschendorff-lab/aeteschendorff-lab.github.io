@@ -21,16 +21,15 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-**Big** and _hehe_ and `Code` text
+**Big** and _really_ and `Code` text
 
 [paper](https://www.nature.com/articles/s41592-018-0213-x) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://www.baidu.com).
-
--111
--222
--333
+-Bulleteda1a11
+-a222
+-a333
 
 
 ![Image](http://www.picb.ac.cn/compsysg/Main/pic_3.png)
