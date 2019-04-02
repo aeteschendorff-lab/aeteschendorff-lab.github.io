@@ -30,8 +30,8 @@ We develop and apply advanced statistical methodology to enable a more meaningfu
 * [Gao Y, Widschwendter M, Teschendorff AE. DNA Methylation Patterns in Normal Tissue Correlate more Strongly with Breast Cancer Status than Copy-Number Variants. EBioMedicine. 2018 May;31:243-252. doi: 10.1016/j.ebiom.2018.04.025. PubMed PMID: 29735413. ]
 (https://www.sciencedirect.com/science/article/pii/S2352396418301531?via%3Dihub)
 2018
-* [Teschendorff AE, Relton CL. Statistical and integrative system-level analysis of DNA methylation data. Nat Rev Genet. 2018 Mar;19(3):129-147. doi: 10.1038/nrg.2017.86. Epub 2017 Nov 13. ]
-(https://www.nature.com/articles/nrg.2017.86)
+* Teschendorff AE, Relton CL. [Statistical and integrative system-level analysis of DNA methylation data](https://www.nature.com/articles/nrg.2017.86). Nat Rev Genet. 2018 Mar;19(3):129-147. doi: 10.1038/nrg.2017.86. Epub 2017 Nov 13. 
+
 2018
 * [Tang W, Wan S, Yang Z, Teschendorff AE, Zou Q. Tumor Origin Detection with Tissue-Specific miRNA and DNA methylation Markers. Bioinformatics. 2018 Feb 1;34(3):398-406. doi: 10.1093/bioinformatics/btx622. ]
 (https://academic.oup.com/bioinformatics/article/34/3/398/4265460)
