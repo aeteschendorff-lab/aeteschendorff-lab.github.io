@@ -54,6 +54,6 @@ We are exploring and developing statistical cell-type deconvolution methods to d
 ![img](http://www.picb.ac.cn/compsysg/Main/FigLungNetA.png)
 We use innovative strategies drawing on methods from graph theory/network science/signal processing to analyse complex and high-dimensional multi-omic data, with a view to elucidate the systems-biological principles underlying diseases like cancer.
 ### Support or Contact
-<font size="30">For more details see</font> [_our website_](http://www.picb.ac.cn/compsysg/index.php).
+For more details see [_our website_](http://www.picb.ac.cn/compsysg/index.php).
 ![img](http://www.picb.ac.cn/compsysg/Main/pic_3.png)
 
