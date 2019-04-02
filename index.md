@@ -41,14 +41,18 @@ We develop and apply advanced statistical methodology to enable a more meaningfu
 
 
 ### Research Focus
-####### Computational Systems Biology Analysis of Single-Cell data
+##### Computational Systems Biology Analysis of Single-Cell data
 ![img](http://www.picb.ac.cn/compsysg/Main/Fig1scentBR.png)
-###### Epigenomics of Ageing, Stem Cells and Cancer
+We are developing novel computational and statistical methods to help analyse and better interpret single-cell omic data, with a particular focus on systems biological aspects.
+##### Epigenomics of Ageing, Stem Cells and Cancer
 ![img](http://www.picb.ac.cn/compsysg/Main/Fig1revFMnew.png)
-###### Cell-type heterogeneity and deconvolution for EWAS
+We are exploring how informative DNA methylation changes that accrue in normal cells as a function of age and exposure to risk factors are for predicting cancer risk. 
+##### Cell-type heterogeneity and deconvolution for EWAS
 ![img](http://www.picb.ac.cn/compsysg/Main/Fig4nm-A.png)
-###### Cancer System-Omics and Network Physics
+We are exploring and developing statistical cell-type deconvolution methods to dissect cell-type heterogeneity aimed at epigenome studies performed in general complex tissues. 
+##### Cancer System-Omics and Network Physics
 ![img](http://www.picb.ac.cn/compsysg/Main/FigLungNetA.png)
+We use innovative strategies drawing on methods from graph theory/network science/signal processing to analyse complex and high-dimensional multi-omic data, with a view to elucidate the systems-biological principles underlying diseases like cancer.
 ### Support or Contact
 For more details see [_our website_](http://www.picb.ac.cn/compsysg/index.php).
 
