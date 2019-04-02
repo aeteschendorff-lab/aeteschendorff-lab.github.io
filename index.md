@@ -72,7 +72,7 @@ For more details see [_our website_](http://www.picb.ac.cn/compsysg/index.php).
  box-shadow:0 0 8px rgba(0,153,204,.5); -moz-box-shadow:0 0 8px rgba(0,153,204,.5); -webkit-box-shadow:0 0 8px rgba(0,153,204,3);"> 
        <div style="width=90%;background-color:#fff;padding:5px" id="pan1">
            <h3><b><a href="http://www.picb.ac.cn/compsysg/Research/Research.php#one">Computational Systems Biology Analysis of Single-Cell data</a></b></h3>
-             <img src="http://www.picb.ac.cn/compsysg/Main/Fig1scentBR.png" alt="examiner" width="70%">
+             <img src="http://www.picb.ac.cn/compsysg/Main/Fig1scentBR.png" alt="examiner" width="100%">
              <p>We are developing novel computational and statistical methods to help analyse and better interpret single-cell omic data, with a particular focus on systems biological aspects.</p>
         </div> 
       </div> 
@@ -83,7 +83,7 @@ For more details see [_our website_](http://www.picb.ac.cn/compsysg/index.php).
  box-shadow:0 0 8px rgba(0,153,204,.5); -moz-box-shadow:0 0 8px rgba(0,153,204,.5); -webkit-box-shadow:0 0 8px rgba(0,153,204,3);"> 
        <div style="width=90%;background-color:#fff;padding:5px" id="pan2">
            <h3><b><a href="http://www.picb.ac.cn/compsysg/Research/Research.php#two">Epigenomics of Ageing, Stem Cells and Cancer</a></b></h3>         
-             <img src="http://www.picb.ac.cn/compsysg/Main/Fig1revFMnew.png" alt="examiner" width="70%">
+             <img src="http://www.picb.ac.cn/compsysg/Main/Fig1revFMnew.png" alt="examiner" width="100%">
              <p> We are exploring how informative DNA methylation changes that accrue in normal cells as a function of age and exposure to risk factors are for predicting cancer risk. </p>
             </div> 
       </div> 
@@ -99,7 +99,7 @@ For more details see [_our website_](http://www.picb.ac.cn/compsysg/index.php).
  box-shadow:0 0 8px rgba(0,153,204,.5); -moz-box-shadow:0 0 8px rgba(0,153,204,.5); -webkit-box-shadow:0 0 8px rgba(0,153,204,3);"> 
        <div style="width=90%;background-color:#fff;padding:5px" id="pan3">
            <h3><b><a href="http://www.picb.ac.cn/compsysg/Research/Research.php#three">Cell-type heterogeneity and deconvolution for EWAS</a></b></h3>    
-             <img src="http://www.picb.ac.cn/compsysg/Main/Fig4nm-A.png" alt="examiner" width="70%">
+             <img src="http://www.picb.ac.cn/compsysg/Main/Fig4nm-A.png" alt="examiner" width="100%">
              <p>We are exploring and developing statistical cell-type deconvolution methods to dissect cell-type heterogeneity aimed at epigenome studies performed in general complex tissues. </p>
         </div> 
       </div>  <!--Research Focus-->  
@@ -113,7 +113,7 @@ For more details see [_our website_](http://www.picb.ac.cn/compsysg/index.php).
  box-shadow:0 0 8px rgba(0,153,204,.5); -moz-box-shadow:0 0 8px rgba(0,153,204,.5); -webkit-box-shadow:0 0 8px rgba(0,153,204,3);"> 
        <div style="width=90%;background-color:#fff;padding:5px" id="pan4">
            <h3><b><a href="http://www.picb.ac.cn/compsysg/Research/Research.php#four">Cancer System-Omics and Network Physics</a></b></h3>
-             <img src="http://www.picb.ac.cn/compsysg/Main/FigLungNetA.png" alt="examiner" width="70%">
+             <img src="http://www.picb.ac.cn/compsysg/Main/FigLungNetA.png" alt="examiner" width="100%">
              <p> We use innovative strategies drawing on methods from graph theory/network science/signal processing to analyse complex and high-dimensional multi-omic data, with a view to elucidate the systems-biological principles underlying diseases like cancer.</p>
             </div> 
       </div> 
@@ -121,6 +121,7 @@ For more details see [_our website_](http://www.picb.ac.cn/compsysg/index.php).
     </div> 
    </div>    
   </div>
+
    <!--Research Focus over-->  
 
 
