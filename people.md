@@ -25,25 +25,6 @@
   <div class="navbar navbar-default navbar-fixed-top" role="navigation" style="background-color:#0188c8;"> 
    <div style="height:3px;background-color:#fff"> 
    </div> 
-   <div class="container"> 
-    <div class="navbar-header"> 
-     <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button> 
-     <a class="navbar-brand" href="#" style="color:#fff"> </a> 
-    </div> 
-    <div class="navbar-collapse collapse"> 
-     <ul class="nav navbar-nav"> 
-      <li><a href=".http://www.picb.ac.cn/compsysg/Member/index.php">Home</a></li> 
-      <li><a href=".http://www.picb.ac.cn/compsysg/Member/Research/Research.php">Research</a></li> 
-      <li><a href=".http://www.picb.ac.cn/compsysg/Member/News/News.php">News</a></li>
-      <li><a href=".http://www.picb.ac.cn/compsysg/Member/Publication/Publication.php">Publications</a></li>
-      <li><a href=".http://www.picb.ac.cn/compsysg/Member/Software/Software.php">Software</a></li>
-      <li><a href=".http://www.picb.ac.cn/compsysg/Member/Album/Album.php">Album</a></li>
-      <li><a href=".http://www.picb.ac.cn/compsysg/Member/Article/Article.php">Article</a></li>
-      <li class="active"><a href=".http://www.picb.ac.cn/compsysg/Member/Member/Member.php">Members</a></li>
-      <li><a href=".http://www.picb.ac.cn/compsysg/Member/Contact/Contact.php">Contact</a></li>
-     </ul> 
-    </div> 
-   </div> 
    <div style="height:3px;background-color:#fff"> 
    </div> 
   </div>
