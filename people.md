@@ -819,44 +819,10 @@ This is also reflected in the scientific background of our members.
 <!--„1¤7³è¾¹æ»„1¤7„1¤7¨æ„1¤7è½„1¤7-->
             
         </div>
-        <div class="col-md-3">
-          <div class="bs-docs-sidebar hidden-print hidden-xs hidden-sm" role="complementary" style="padding-top:100px">
-            <ul class="nav bs-docs-sidenav" >
-<li>
-  <a href="#PIS">Principal Investigator</a>
-  <ul class="nav">
-    <li><a href="#PI">Andrew E Teschendorff</a></li>
-  </ul>
-</li>
-<li>
-  <a href="#affix">Ph.D. Students</a>
-  <ul class="nav">
 
-    <li><a href="#Student1">Danyue Dong</a></li>
-    <li><a href="#Student2">Han Jing</a></li>
-    <li><a href="#Student3">Weiyan Chen</a></li>
-    <li><a href="#Student4">Ning Wang</a></li>
-    <li><a href="#Student5">Shijie Zheng</a></li>
-    <li><a href="#Student6">Xue Hu</a></li>
-    <li><a href="#Student7">Tianyu Zhu</a></li>
-    <li><a href="#Student8">Chenglong You</a></li>
-  </ul>
-</li>
-<li>
-  <a href="#groupAlumni">Alumni</a>
-  <ul class="nav">
-    <li><a href="#Alumni1">Yinming Jiao</a></li>
-    <li><a href="#Alumni2">Linlin Li</a></li>
-    <li><a href="#Alumni3">Yiru Shen</a></li>
-    <li><a href="#Alumni4">Yuting Chen</a></li>
-    <li><a href="#Alumni5">Yang Gao</a></li>
-    <li><a href="#Alumni6">Yuan Tian</a></li>
-    <li><a href="#Alumni7">Rui Cui</a></li>
-    <li><a href="#Alumni8">Meng Li</a></li>
-    <li><a href="#Alumni9">Shoufeng Huang</a></li>
-  </ul>
-</li>
-            </ul>
+
+
+
             <a class="back-to-top" href="#top">
               Back to top
             </a>
