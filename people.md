@@ -827,19 +827,18 @@ This is also reflected in the scientific background of our members.
               Back to top
             </a>
             
-          </div>
-        </div>
+
       </div>
     </div>
          
    <!-- /end #content --> 
-     
+     <hr>
      
 <div style="height:4px;background-color:#ccc"> 
   </div> 
   <div style="height:80px;background-color:#37464F"> 
    <div class="container" style="text-align: center;padding:20px;"> 
-    <p style="color:#fff;font-weight:bold">Kind regards</p> 
+    <p style="color:#fff;font-weight:bold">The end of this page</p> 
    </div> 
   </div> 
   <div style="height:4px;background-color:#ccc"> 
