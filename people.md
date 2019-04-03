@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
  <head> 
   <meta charset="utf-8" /> 
@@ -72,7 +71,7 @@ This is also reflected in the scientific background of our members.
         <div class="col-md-9" role="main">
           <div class="bs-docs-section">
   <h1  id="PIS">Principal Investigator</h1>
-  <hr id="PI" style="color:#fff"></hr>
+  <hr id="PI" style="color:#fff">
   <div class="bs-callout bs-callout-danger" style="border-left-color:#333; ">
 
       
@@ -142,7 +141,7 @@ This is also reflected in the scientific background of our members.
 
 
 
-<hr id="Student1" style="color:#fff"></hr>
+<hr id="Student1" style="color:#fff">
 <div class="bs-callout bs-callout-info">
      <div class="row">
           <div class="col-lg-4" style="display: table-cell;vertical-align:middle; text-align:center;">
@@ -186,7 +185,7 @@ This is also reflected in the scientific background of our members.
   </div>
 
 
-<hr  id="Student2" class="bs-docs-separator"></hr>  
+<hr  id="Student2" class="bs-docs-separator">  
 <div class="bs-callout bs-callout-info">
      <div class="row">
           <div class="col-lg-4" style="display: table-cell;vertical-align:middle; text-align:center;">
@@ -234,7 +233,7 @@ This is also reflected in the scientific background of our members.
 
 
 
-<hr  id="Student3" class="bs-docs-separator"></hr>  
+<hr  id="Student3" class="bs-docs-separator">  
 <div class="bs-callout bs-callout-info">
      <div class="row">
           <div class="col-lg-4" style="display: table-cell;vertical-align:middle; text-align:center;">
@@ -276,7 +275,7 @@ This is also reflected in the scientific background of our members.
   </div>
 
 
-<hr  id="Student4" class="bs-docs-separator"></hr>
+<hr  id="Student4" class="bs-docs-separator">
 <div class="bs-callout bs-callout-info">
      <div class="row">
           <div class="col-lg-4" style="display: table-cell;vertical-align:middle; text-align:center;">
@@ -320,7 +319,7 @@ This is also reflected in the scientific background of our members.
   </div>
    
 
-<hr  id="Student5" class="bs-docs-separator"></hr>
+<hr  id="Student5" class="bs-docs-separator">
 <div class="bs-callout bs-callout-info">
      <div class="row">
           <div class="col-lg-4" style="display: table-cell;vertical-align:middle; text-align:center;">
@@ -362,7 +361,7 @@ This is also reflected in the scientific background of our members.
   </div>
 
 
-<hr  id="Student6" class="bs-docs-separator"></hr>
+<hr  id="Student6" class="bs-docs-separator">
 <div class="bs-callout bs-callout-info">
      <div class="row">
           <div class="col-lg-4" style="display: table-cell;vertical-align:middle; text-align:center;">
@@ -406,7 +405,7 @@ This is also reflected in the scientific background of our members.
 
 
 
-  <hr  id="Student7" class="bs-docs-separator"></hr>
+  <hr  id="Student7" class="bs-docs-separator">
 <div class="bs-callout bs-callout-info">
      <div class="row">
           <div class="col-lg-4" style="display: table-cell;vertical-align:middle; text-align:center;">
@@ -450,7 +449,7 @@ This is also reflected in the scientific background of our members.
 
 
 
-<hr  id="Student8" class="bs-docs-separator"></hr>
+<hr  id="Student8" class="bs-docs-separator">
 <div class="bs-callout bs-callout-info">
      <div class="row">
           <div class="col-lg-4" style="display: table-cell;vertical-align:middle; text-align:center;">
@@ -506,7 +505,7 @@ This is also reflected in the scientific background of our members.
 
 <div class="bs-docs-section">
   <h1 id="groupAlumni">Alumni <small>nine</small></h1>
-  <hr id="Alumni1" style="color:#fff"></hr>
+  <hr id="Alumni1" style="color:#fff">
     
       <div class="bs-callout bs-callout-warning">
  <div class="row">
@@ -543,7 +542,7 @@ This is also reflected in the scientific background of our members.
         </div>
       </div>
   </div>
-    <hr id="Alumni2" style="color:#fff"></hr>
+    <hr id="Alumni2" style="color:#fff">
 
       <div class="bs-callout bs-callout-warning">
     <div class="row">
@@ -581,7 +580,7 @@ This is also reflected in the scientific background of our members.
       </div>
   </div>
 
-        <hr id="Alumni3" style="color:#fff"></hr>
+        <hr id="Alumni3" style="color:#fff">
 
       <div class="bs-callout bs-callout-warning">
     <div class="row">
@@ -619,7 +618,7 @@ This is also reflected in the scientific background of our members.
       </div>
   </div>
 
-          <hr id="Alumni4" style="color:#fff"></hr>
+          <hr id="Alumni4" style="color:#fff">
 
       <div class="bs-callout bs-callout-warning">
     <div class="row">
@@ -658,7 +657,7 @@ This is also reflected in the scientific background of our members.
   </div>
 
 
-          <hr id="Alumni5" style="color:#fff"></hr>
+          <hr id="Alumni5" style="color:#fff">
 
       <div class="bs-callout bs-callout-warning">
     <div class="row">
@@ -697,7 +696,7 @@ This is also reflected in the scientific background of our members.
   </div>
 
 
-  <hr id="Alumni6" style="color:#fff"></hr>
+  <hr id="Alumni6" style="color:#fff">
 
       <div class="bs-callout bs-callout-warning">
     <div class="row">
@@ -736,7 +735,7 @@ This is also reflected in the scientific background of our members.
   </div>
 
 
-  <hr id="Alumni7" style="color:#fff"></hr>
+  <hr id="Alumni7" style="color:#fff">
 
       <div class="bs-callout bs-callout-warning">
     <div class="row">
@@ -775,7 +774,7 @@ This is also reflected in the scientific background of our members.
   </div>
 
 
-  <hr id="Alumni8" style="color:#fff"></hr>
+  <hr id="Alumni8" style="color:#fff">
 
       <div class="bs-callout bs-callout-warning">
     <div class="row">
@@ -816,7 +815,7 @@ This is also reflected in the scientific background of our members.
 
 
 
-   <hr id="Alumni9" style="color:#fff"></hr>
+   <hr id="Alumni9" style="color:#fff">
 
       <div class="bs-callout bs-callout-warning">
     <div class="row">
