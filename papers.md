@@ -1,7 +1,6 @@
 ### 2018
 * Zheng SC, Breeze CE, Beck S, Teschendorff AE. 
-
-[Identification of differentially methylated cell types in epigenome-wide association studies](https://www.nature.com/articles/s41592-018-0213-x).
+** [Identification of differentially methylated cell types in epigenome-wide association studies](https://www.nature.com/articles/s41592-018-0213-x).
 _Nat Methods_. 2018 Nov 30. 
 
 * Teschendorff AE. 
