@@ -820,7 +820,7 @@ This is also reflected in the scientific background of our members.
             
         </div>
 
-
+     <hr>
 
 
             <a class="back-to-top" href="#top">
@@ -832,7 +832,7 @@ This is also reflected in the scientific background of our members.
     </div>
          
    <!-- /end #content --> 
-     <hr>
+
      
 <div style="height:4px;background-color:#ccc"> 
   </div> 
