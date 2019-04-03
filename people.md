@@ -80,31 +80,6 @@ This is also reflected in the scientific background of our members.
        <br />
       
 
-      <div class="panel panel-default">
-        <div class="panel-heading" role="tab" id="headingOne">
-          <h4 class="panel-title">
-            <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne" style="color:#333">
-              Click Here for More Information
-            </a>
-          </h4>
-        </div>
-        <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
-          <div class="panel-body">
-             <?php 
-          // include markdown content as seperate file for maintainability
-         $file = fopen ("http://www.picb.ac.cn/compsysg/Member/andrew.md", "r");
-         $str = fread($file,filesize("http://www.picb.ac.cn/compsysg/Member/andrew.md"));
-          
-          //setup parsedown
-          require_once("http://www.picb.ac.cn/compsysg/Member/parsedown.php");
-          $parsedown = new parsedown();
-          
-          //parse markdown as html
-          echo $parsedown->text($str); 
-      ?>
-          </div>
-        </div>
-      </div>
   </div>
 
 </div>
