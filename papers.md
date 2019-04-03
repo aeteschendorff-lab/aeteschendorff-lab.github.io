@@ -1,7 +1,10 @@
 ### 2018
-* Zheng SC, Breeze CE, Beck S, Teschendorff AE. Identification of differentially methylated cell types in epigenome-wide association studies. _Nat Methods_. 2018 Nov 30. doi: 10.1038/s41592-018-0213-x. 
+* Identification of differentially methylated cell types in epigenome-wide association studies. 
+Zheng SC, Breeze CE, Beck S, Teschendorff AE. 
+_Nat Methods_. 2018 Nov 30. 
 [Click here for more info](https://www.nature.com/articles/s41592-018-0213-x)
-* Teschendorff AE. Avoiding common pitfalls in machine learning omic data science. _Nat Materials_. 2018 Nov 26. doi: 10.1038/s41563-018-0241-z
+* Teschendorff AE. 
+Avoiding common pitfalls in machine learning omic data science. _Nat Materials_. 2018 Nov 26. doi: 10.1038/s41563-018-0241-z
 [Click here for more info](https://doi.org/10.1038/s41563-018-0241-z)
 * Zhu T, Zheng SC, Paul DS, Horvath S, Teschendorff AE. Cell and tissue type independent age-associated DNA methylation changes are not rare but common. _Aging_ (Albany NY). 2018; 10:3541-3557. 
 [Click here for more info](https://doi.org/10.18632/aging.101666)
@@ -19,8 +22,7 @@ http://www.aging-us.com/article/101533/text)
 [Click here for more info](https://www.sciencedirect.com/science/article/pii/S2352396418301531?via%3Dihub)
 * Teschendorff AE, Relton CL. Statistical and integrative system-level analysis of DNA methylation data. _Nat Rev Genet_. 2018 Mar;19(3):129-147. doi: 10.1038/nrg.2017.86. Epub 2017 Nov 13. 
 [Click here for more info](https://www.nature.com/articles/nrg.2017.86)
-* Tang W, Wan S, Yang Z, Teschendorff AE, Zou Q. Tumor Origin Detection with Tissue-Specific miRNA and DNA methylation Markers. _Bioinformatics_. 2018 Feb 1;34(3):398-406. doi: 10.1093/bioinformatics/btx622. 
-[Click here for more info](https://academic.oup.com/bioinformatics/article/34/3/398/4265460)
+* Tang W, Wan S, Yang Z, Teschendorff AE, Zou Q. Tumor Origin Detection with Tissue-Specific miRNA and DNA methylation Markers. _Bioinformatics_. 2018 Feb 1;[Click here for more info](https://academic.oup.com/bioinformatics/article/34/3/398/4265460)
 
 ### 2017
 ### 2016
