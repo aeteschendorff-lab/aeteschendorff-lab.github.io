@@ -9,7 +9,7 @@ We develop and apply advanced statistical methodology to enable a more meaningfu
 
 
 
-### Recent papers
+### Key papers
 
 * Zheng SC, Breeze CE, Beck S, Teschendorff AE. Identification of differentially methylated cell types in epigenome-wide association studies. Nat Methods. (2018) [Click here for more info](https://www.nature.com/articles/s41592-018-0213-x)
 
