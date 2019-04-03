@@ -898,7 +898,7 @@ This is also reflected in the scientific background of our members.
   </div> 
   <div style="height:80px;background-color:#37464F"> 
    <div class="container" style="text-align: center;padding:20px;"> 
-    <p style="color:#fff;font-weight:bold">Designed and Coded by Yuan Tian</p> 
+    <p style="color:#fff;font-weight:bold">Kind regards</p> 
    </div> 
   </div> 
   <div style="height:4px;background-color:#ccc"> 
