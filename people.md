@@ -1,4 +1,55 @@
-Hello, this is the people page
+<!DOCTYPE html>
+<html lang="en">
+ <head> 
+  <meta charset="utf-8" /> 
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" /> 
+  <meta name="viewport" content="width=device-width, initial-scale=1" /> 
+  <meta name="description" content="" /> 
+  <meta name="author" content="" /> 
+  <link rel="icon" href=".http://www.picb.ac.cn/compsysg/Member/favicon.ico" /> 
+  <title>Computational System Genomics</title> 
+  <!-- Bootstrap core CSS --> 
+  <link href=".http://www.picb.ac.cn/compsysg/Member/dist/css/bootstrap.css" rel="stylesheet" /> 
+  <link href="http://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css" />
+  <link href=".http://www.picb.ac.cn/compsysg/Member/assets/css/docs.min.css" rel="stylesheet">
+  <!-- Custom styles for this template --> 
+  <!-- Just for debugging purposes. Don't actually copy these 2 lines! --> 
+  <!--[if lt IE 9]><script src=".http://www.picb.ac.cn/compsysg/Member/.http://www.picb.ac.cn/compsysg/Member/assets/js/ie8-responsive-file-warning.js"></script><![endif]--> 
+  <script src=".http://www.picb.ac.cn/compsysg/Member/assets/js/ie-emulation-modes-warning.js"></script> 
+  <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries --> 
+  <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]--> 
+ </head> 
+ <body style="background-color:#fff;font-family: 'Open Sans', sans-serif;"> 
+  <div class="navbar navbar-default navbar-fixed-top" role="navigation" style="background-color:#0188c8;"> 
+   <div style="height:3px;background-color:#fff"> 
+   </div> 
+   <div class="container"> 
+    <div class="navbar-header"> 
+     <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button> 
+     <a class="navbar-brand" href="#" style="color:#fff"> </a> 
+    </div> 
+    <div class="navbar-collapse collapse"> 
+     <ul class="nav navbar-nav"> 
+      <li><a href=".http://www.picb.ac.cn/compsysg/Member/index.php">Home</a></li> 
+      <li><a href=".http://www.picb.ac.cn/compsysg/Member/Research/Research.php">Research</a></li> 
+      <li><a href=".http://www.picb.ac.cn/compsysg/Member/News/News.php">News</a></li>
+      <li><a href=".http://www.picb.ac.cn/compsysg/Member/Publication/Publication.php">Publications</a></li>
+      <li><a href=".http://www.picb.ac.cn/compsysg/Member/Software/Software.php">Software</a></li>
+      <li><a href=".http://www.picb.ac.cn/compsysg/Member/Album/Album.php">Album</a></li>
+      <li><a href=".http://www.picb.ac.cn/compsysg/Member/Article/Article.php">Article</a></li>
+      <li class="active"><a href=".http://www.picb.ac.cn/compsysg/Member/Member/Member.php">Members</a></li>
+      <li><a href=".http://www.picb.ac.cn/compsysg/Member/Contact/Contact.php">Contact</a></li>
+     </ul> 
+    </div> 
+   </div> 
+   <div style="height:3px;background-color:#fff"> 
+   </div> 
+  </div>
+     
+     
 <div style="height:4px;background-color:#ccc"> 
   </div> 
   <div style="min_height:200px;background-color:#990033"> 
