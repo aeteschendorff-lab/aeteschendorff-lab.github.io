@@ -19,7 +19,7 @@ _Nucleic Acids Res_. 2018 Oct 10.
 [Quantifying Waddington's epigenetic landscape: a comparison of single-cell potency measures](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bby093/5115275). 
 _Brief Bioinform_. 2018 Oct 5. 
 
-* Teschendorff AE. 
+* Teschendorff AE.  
 [Epigenetic clocks galore: a new improved clock predicts age-acceleration in Hutchinson Gilford Progeria Syndrome patients](http://www.aging-us.com/article/101533/text).  
 _Aging (Albany  NY)_. 2018 Aug 21;10(8):1799-1800. 
 
@@ -40,8 +40,7 @@ _EBioMedicine_. 2018 May;31:243-252.
 _Nat Rev Genet_. 2018 Mar;19(3):129-147.
 
 * Tang W, Wan S, Yang Z, Teschendorff AE, Zou Q.   
-[Tumor Origin Detection with Tissue-Specific miRNA and DNA methylation Markers  
-(https://academic.oup.com/bioinformatics/article/34/3/398/4265460). 
+[Tumor Origin Detection with Tissue-Specific miRNA and DNA methylation Markers](https://academic.oup.com/bioinformatics/article/34/3/398/4265460).  
 _Bioinformatics_. 2018 Feb 1;34(3):398-406.
 
 
