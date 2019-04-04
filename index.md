@@ -1,4 +1,4 @@
-## Welcome to Aeteschendorff Lab
+## Welcome to Teschendorff Lab
 * [Papers](https://aeteschendorff-lab.github.io/papers)
 * [People](https://aeteschendorff-lab.github.io/people)
 * [Projects](https://aeteschendorff-lab.github.io/projects)
