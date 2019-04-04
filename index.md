@@ -1,7 +1,52 @@
 ## Welcome to Teschendorff Lab
-* [Papers](https://aeteschendorff-lab.github.io/papers)
-* [People](https://aeteschendorff-lab.github.io/people)
-* [Projects](https://aeteschendorff-lab.github.io/projects)
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
+<title>固定-浮动定位在顶部的div</title>
+<style type="text/css">
+*{
+	margin:0;
+	padding: 0;
+}
+#container{
+	width: 90%;
+	background: #ccc;
+	height:auto;
+	margin: 0 auto;
+ 
+}
+#nav{
+	position:fixed; 
+	top:0; 
+	width:90%; 
+	height: 30px; 
+	background: #f30;
+}
+#main{
+	width:100%;
+	height:1000px;
+	margin-top:35px;
+	background:green;
+	padding-top: 10px;
+}
+</style>
+ 
+</head>
+<body>
+<div id="container">
+	<div id="nav">
+	浮动定位的div
+	</div>
+	<div id="main">
+		我是主体我是主体我是主体我是主体我是主体
+	</div>
+</div>
+</body>
+</html>
+
+## [Papers](https://aeteschendorff-lab.github.io/papers)
+## [People](https://aeteschendorff-lab.github.io/people)
+## [Projects](https://aeteschendorff-lab.github.io/projects)
 
 
   
