@@ -33,14 +33,6 @@
  
 </head>
 <body>
-<div id="container">
-	<div id="nav">
-	浮动定位的div
-	</div>
-	<div id="main">
-		我是主体我是主体我是主体我是主体我是主体
-	</div>
-</div>
 </body>
 </html>
 
