@@ -45,39 +45,54 @@ _Bioinformatics_. 2018 Feb 1;34(3):398-406.
 
 
 ### 2017
-﻿* Chen Y, Widschwendter M, Teschendorff AE. Systems-epigenomics inference of transcription factor activity implicates aryl-hydrocarbon-receptor inactivation as a key event in lung cancer development. Genome Biol. 2017 Dec 20;18(1):236. doi: 10.1186/s13059-017-1366-0. PMID: 29262847
-https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1366-0
-2017
-* Widschwendter M, Zikan M, Wahl B, Lempiäinen H, Paprotka T, Evans I, Jones A, Ghazali S, Reisel D, Eichner J, Rujan T, Yang Z, Teschendorff AE, Ryan A, Cibula D, Menon U, Wittenberger T. The potential of circulating tumor DNA methylation analysis for the early detection and management of ovarian cancer. Genome Med. 2017 Dec 22;9(1):116. doi: 10.1186/s13073-017-0500-7. PMID: 29268796
-https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-017-0500-7
-2017
-* Simpkin AJ, Cooper R, Howe LD, Relton CL, Davey Smith G, Teschendorff A, Widschwendter M, Wong A, Kuh D, Hardy R. Are objective measures of physical capability related to accelerated epigenetic age? Findings from a British birth cohort. BMJ Open. 2017 Nov 1;7(10):e016708. doi:10.1136/bmjopen-2017-016708. PubMed PMID: 29092899.
-http://bmjopen.bmj.com/content/7/10/e016708
-2017
-* Herceg Z, Ghantous A, Wild CP, Sklias A, Casati L, Duthie SJ, Fry R, Issa JP, Kellermayer R, Koturbash I, Kondo Y, Lepeule J, Lima SCS, Marsit CJ, Rakyan V, Saffery R, Taylor JA, Teschendorff AE, Ushijima T, Vineis P, Walker CL, Waterland RA, Wiemels J, Ambatipudi S, Degli Esposti D, Hernandez-Vargas H. Roadmap for investigating epigenome deregulation and environmental origins of cancer. Int J Cancer. 2018 Mar 1;142(5):874-882. doi: 10.1002/ijc.31014. Epub 2017 Sep 13.
-https://onlinelibrary.wiley.com/doi/abs/10.1002/ijc.31014
-2017
-* Teschendorff AE, Zheng SC. Cell-type deconvolution in epigenome-wide association studies: a review and recommendations. Epigenomics. 2017 May;9(5):757-768. doi: 10.2217/epi-2016-0153. Epub 2017 Mar 14. PubMed PMID: 28517979.
-https://www.futuremedicine.com/doi/abs/10.2217/epi-2016-0153
-2017
-* Pan S, Lai H, Shen Y, Breeze C, Beck S, Hong T, Wang C, Teschendorff AE. DNA methylome analysis reveals distinct epigenetic patterns of ascending aortic dissection and bicuspid aortic valve. Cardiovasc Res. 2017 May 1;113(6):692-704. doi: 10.1093/cvr/cvx050. PubMed PMID: 28444195.
-https://academic.oup.com/cardiovascres/article/113/6/692/3743778
-2017
-* Kiechl S, Schramek D, Widschwendter M, Fourkala EO, Zaikin A, Jones A, Jaeger B, Rack B, Janni W, Scholz C, Willeit J, Weger S, Mayr A, Teschendorff A, Rosenthal A, Fraser L, Philpott S, Dubeau L, Keshtgar M, Roylance R, Jacobs IJ, Menon U, Schett G, Penninger JM. Aberrant regulation of RANKL/OPG in women at high risk of developing breast cancer. Oncotarget. 2017 Jan 17;8(3):3811-3825. doi: 10.18632/oncotarget.14013. PubMed PMID: 28002811; PubMed Central PMCID: PMC5354797.
-http://www.impactjournals.com/oncotarget/index.php?journal=oncotarget&page=article&op=view&path[]=14013&pubmed-linkout=1
-2017
-* Yuan Tian, Tiffany J Morris, Amy P Webster, Zhen Yang, Stephan Beck, Andrew Feber, Andrew E Teschendorff; ChAMP: Updated Methylation Analysis Pipeline for Illumina BeadChips, Bioinformatics, btx513
-https://doi.org/10.1093/bioinformatics/btx513
-2017
-* Teschendorff AE, Enver T. Single-cell entropy for accurate estimation of differentiation potency from a cell's transcriptome. Nat Commun. 2017 Jun 1;8:15599. doi: 10.1038/ncomms15599.      PubMed PMID: 28569836.
-https://www.nature.com/articles/ncomms15599
-2017
-* Zheng SC, Beck S, Jaffe AE, Koestler DC, Hansen KD, Houseman AE, Irizarry RA, Teschendorff AE. Correcting for cell-type heterogeneity in epigenome-wide association studies: revisiting previous analyses. Nat Methods. 2017 Feb 28;14(3):216-217. doi: 10.1038/nmeth.4187. PubMed PMID: 28245219.
-http://www.nature.com/nmeth/journal/v14/n3/full/nmeth.4187.html
-2017
-* Teschendorff AE, Breeze CE, Zheng SC, Beck S. A comparison of reference-based algorithms for correcting cell-type heterogeneity in Epigenome-Wide Association Studies. BMC Bioinformatics. 2017 Feb 13;18(1):105. doi:10.1186/s12859-017-1511-5. PubMed PMID: 28193155.
-https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-017-1511-5
-2017
+* Chen Y, Widschwendter M, Teschendorff AE.
+[Systems-epigenomics inference of transcription factor activity implicates aryl-hydrocarbon-receptor inactivation as a key event in lung cancer development](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1366-0).  
+_Genome Biol_. 2017 Dec 20;18(1):236. 
+
+
+* Widschwendter M, Zikan M, Wahl B, Lempiäinen H, Paprotka T, Evans I, Jones A, Ghazali S, Reisel D, Eichner J, Rujan T, Yang Z, Teschendorff AE, Ryan A, Cibula D, Menon U, Wittenberger T. 
+[The potential of circulating tumor DNA methylation analysis for the early detection and management of ovarian cancer]
+(https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-017-0500-7).  
+_Genome Med_. 2017 Dec 22;9(1):116. 
+
+* Simpkin AJ, Cooper R, Howe LD, Relton CL, Davey Smith G, Teschendorff A, Widschwendter M, Wong A, Kuh D, Hardy R.  
+[Are objective measures of physical capability related to accelerated epigenetic age? Findings from a British birth cohort](http://bmjopen.bmj.com/content/7/10/e016708).  
+_BMJ Open_. 2017 Nov 1;7(10):e016708.  
+
+* Herceg Z, Ghantous A, Wild CP, Sklias A, Casati L, Duthie SJ, Fry R, Issa JP, Kellermayer R, Koturbash I, Kondo Y, Lepeule J, Lima SCS, Marsit CJ, Rakyan V, Saffery R, Taylor JA, Teschendorff AE, Ushijima T, Vineis P, Walker CL, Waterland RA, Wiemels J, Ambatipudi S, Degli Esposti D, Hernandez-Vargas H.  
+[Roadmap for investigating epigenome deregulation and environmental origins of cancer](https://onlinelibrary.wiley.com/doi/abs/10.1002/ijc.31014).  
+_Int J Cancer_. 2018 Mar 1;142(5):874-882.  
+
+* Teschendorff AE, Zheng SC.  
+[Cell-type deconvolution in epigenome-wide association studies: a review and recommendations](https://www.futuremedicine.com/doi/abs/10.2217/epi-2016-0153).  
+_Epigenomics_. 2017 May;9(5):757-768. 
+
+* Pan S, Lai H, Shen Y, Breeze C, Beck S, Hong T, Wang C, Teschendorff AE. 
+[DNA methylome analysis reveals distinct epigenetic patterns of ascending aortic dissection and bicuspid aortic valve](https://academic.oup.com/cardiovascres/article/113/6/692/3743778).  
+_Cardiovasc Res_. 2017 May 1;113(6):692-704.  
+
+* Kiechl S, Schramek D, Widschwendter M, Fourkala EO, Zaikin A, Jones A, Jaeger B, Rack B, Janni W, Scholz C, Willeit J, Weger S, Mayr A, Teschendorff A, Rosenthal A, Fraser L, Philpott S, Dubeau L, Keshtgar M, Roylance R, Jacobs IJ, Menon U, Schett G, Penninger JM.  
+[Aberrant regulation of RANKL/OPG in women at high risk of developing breast cancer](http://www.impactjournals.com/oncotarget/index.php?journal=oncotarget&page=article&op=view&path[]=14013&pubmed-linkout=1).  
+_Oncotarget_. 2017 Jan 17;8(3):3811-3825.
+
+
+* Yuan Tian, Tiffany J Morris, Amy P Webster, Zhen Yang, Stephan Beck, Andrew Feber, Andrew E Teschendorff;  
+[ChAMP: Updated Methylation Analysis Pipeline for Illumina BeadChips](https://doi.org/10.1093/bioinformatics/btx513)  
+_Bioinformatics—_, btx513 2017
+
+
+* Teschendorff AE, Enver T.   
+[Single-cell entropy for accurate estimation of differentiation potency from a cell's transcriptome](https://www.nature.com/articles/ncomms15599).  
+_Nat Commun_. 2017 Jun 1;8:15599.
+
+
+* Zheng SC, Beck S, Jaffe AE, Koestler DC, Hansen KD, Houseman AE, Irizarry RA, Teschendorff AE.  
+[Correcting for cell-type heterogeneity in epigenome-wide association studies: revisiting previous analyses](http://www.nature.com/nmeth/journal/v14/n3/full/nmeth.4187.html).  
+_Nat Methods_. 2017 Feb 28;14(3):216-217. 
+
+* Teschendorff AE, Breeze CE, Zheng SC, Beck S.  
+[A comparison of reference-based algorithms for correcting cell-type heterogeneity in Epigenome-Wide Association Studies](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-017-1511-5).  
+_BMC Bioinformatics_. 2017 Feb 13;18(1):105.  
 ### 2016
 ### 2015
 ### 2014
