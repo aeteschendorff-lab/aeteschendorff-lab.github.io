@@ -2116,14 +2116,14 @@ input[type="reset"].btn-block,
 input[type="button"].btn-block {
   width: 100%;
 }
-/*.fade {
+.fade {
   opacity: 0;
   -webkit-transition: opacity 0.15s linear;
   transition: opacity 0.15s linear;
 }
 .fade.in {
   opacity: 1;
-}*/
+}
 .collapse {
   display: none;
 }
@@ -6219,7 +6219,7 @@ blockquote p {
 .feedbox {
   height: 320px;
   overflow: hidden;
-  -webkit-mask-image: -webkit-gradient(linear, left 85%, left bottom, from(#000000), to(rgba(0, 0, 0, 0)));
+  /*-webkit-mask-image: -webkit-gradient(linear, left 85%, left bottom, from(#000000), to(rgba(0, 0, 0, 0)));*/
   /*	-webkit-box-shadow: inset 0 -30px 10px -10px white; */
   /*	   -moz-box-shadow: inset 0 -30px 10px -10px white; */
   /*	        box-shadow: inset 0 -30px 10px -10px white; */
