@@ -659,7 +659,7 @@ str(Integration.l)</code></pre>
 </div>
 <p>There two <strong>NOTES</strong> need to be addressed:</p>
 <ol style="list-style-type: decimal">
-<li>For argument <strong>dim</strong>, this is a vector virable. It indicates <strong>which</strong> dimension to use and in what <strong>order</strong>. For example, <em>dim = c(1,2,3)</em> means use diffusion component 1,2 and 3 to generrate figures, and the x-axis relates to DC1, y-axis relates to DC2 and z-axis relates to DC3. However, <em>dim = c(2,3,5)</em> means x-axis relates to DC2, y-axis relates to DC3 and z-axis relates to DC5. Moreover, if the maximum dimension you choose here is larger than <em>num_comp</em> in <code>DoDiffusionMap</code> function, the plot would fail.</li>
+<li>For argument <strong>dim</strong>, this is a vector virable. It indicates <strong>which</strong> dimension to use and in what <strong>order</strong>. For example, <em>dim = c(1,2,3)</em> means use diffusion component 1,2 and 3 to generrate figures, and the x-axis relates to DC1, y-axis relates to DC2 and z-axis relates to DC3. While <em>dim = c(2,3,5)</em> means x-axis relates to DC2, y-axis relates to DC3 and z-axis relates to DC5. More Importantly, the signs of elements in <em>dim</em> indicate the direction of diffusion components. For example, <strong>dim = c(2,3,-5)</strong> means x-axis relates to DC2, y-axis relates to DC3 and z-axis relates to <strong>-DC5</strong>. Moreover, if the maximum dimension you choose here is larger than <em>num_comp</em> in <code>DoDiffusionMap</code> function, the plot would fail.</li>
 <li>We provide an option in <strong>color_by</strong> to be <strong>DPT</strong>, which gives a diffusion pseudotime(DPT) estimation. In some cases, like the cell number is too little, or the cell clusters are seprated too far with each other, the estimation may fail. So before you generate the figure with <em>DPT</em>, you may need to look into the diffusion map itself, and make sure the DPT estimation could be carry out correctly.</li>
 </ol>
 <pre class="r"><code>Plot_DiffusionMap(DoDiffusionMap.o,
@@ -705,8 +705,8 @@ result.cds &lt;- SR.o$data.cds</code></pre>
 ## [8] methods   base     
 ## 
 ## other attached packages:
-##  [1] marray_1.62.0               limma_3.40.0               
-##  [3] scater_1.12.0               ggplot2_3.1.1              
+##  [1] marray_1.62.0               limma_3.40.2               
+##  [3] scater_1.12.1               ggplot2_3.1.1              
 ##  [5] SingleCellExperiment_1.6.0  SummarizedExperiment_1.14.0
 ##  [7] DelayedArray_0.10.0         BiocParallel_1.18.0        
 ##  [9] matrixStats_0.54.0          Biobase_2.44.0             
@@ -716,48 +716,65 @@ result.cds &lt;- SR.o$data.cds</code></pre>
 ## [17] BiocStyle_2.12.0           
 ## 
 ## loaded via a namespace (and not attached):
-##  [1] bitops_1.0-6             DDRTree_0.1.5           
-##  [3] RColorBrewer_1.1-2       docopt_0.6.1            
-##  [5] tools_3.6.0              R6_2.4.0                
-##  [7] irlba_2.3.3              vipor_0.4.5             
-##  [9] lazyeval_0.2.2           colorspace_1.4-1        
-## [11] withr_2.1.2              tidyselect_0.2.5        
-## [13] gridExtra_2.3            compiler_3.6.0          
-## [15] BiocNeighbors_1.2.0      bookdown_0.10           
-## [17] slam_0.1-45              scales_1.0.0            
-## [19] JADE_2.0-1               plot3D_1.1.1            
-## [21] stringr_1.4.0            digest_0.6.18           
-## [23] dbscan_1.1-3             rmarkdown_1.12          
-## [25] sparsesvd_0.1-4          XVector_0.24.0          
-## [27] pkgconfig_2.0.2          htmltools_0.3.6         
-## [29] rlang_0.3.4              VGAM_1.1-1              
-## [31] FNN_1.1.3                DelayedMatrixStats_1.6.0
-## [33] combinat_0.0-8           mclust_5.4.3            
-## [35] dplyr_0.8.1              RCurl_1.95-4.12         
-## [37] magrittr_1.5             BiocSingular_1.0.0      
-## [39] GenomeInfoDbData_1.2.1   Matrix_1.2-17           
-## [41] Rcpp_1.0.1               ggbeeswarm_0.6.0        
-## [43] munsell_0.5.0            viridis_0.5.1           
-## [45] stringi_1.4.3            yaml_2.2.0              
-## [47] MASS_7.3-51.4            zlibbioc_1.30.0         
-## [49] qvalue_2.16.0            Rtsne_0.15              
-## [51] plyr_1.8.4               grid_3.6.0              
-## [53] misc3d_0.8-4             ggrepel_0.8.1           
-## [55] crayon_1.3.4             lattice_0.20-38         
-## [57] splines_3.6.0            knitr_1.22              
-## [59] pillar_1.4.0             igraph_1.2.4.1          
-## [61] corpcor_1.6.9            reshape2_1.4.3          
-## [63] glue_1.3.1               evaluate_0.13           
-## [65] BiocManager_1.30.4       isva_1.9                
-## [67] gtable_0.3.0             RANN_2.6.1              
-## [69] purrr_0.3.2              clue_0.3-57             
-## [71] assertthat_0.2.1         xfun_0.7                
-## [73] rsvd_1.0.0               monocle_2.12.0          
-## [75] HSMMSingleCell_1.4.0     qlcMatrix_0.9.7         
-## [77] viridisLite_0.3.0        tibble_2.1.1            
-## [79] pheatmap_1.0.12          beeswarm_0.2.3          
-## [81] cluster_2.0.9            fastICA_1.2-1           
-## [83] densityClust_0.3</code></pre>
+##   [1] Rtsne_0.15               ggbeeswarm_0.6.0        
+##   [3] VGAM_1.1-1               colorspace_1.4-1        
+##   [5] RcppEigen_0.3.3.5.0      class_7.3-15            
+##   [7] rio_0.5.16               mclust_5.4.3            
+##   [9] qvalue_2.16.0            corpcor_1.6.9           
+##  [11] XVector_0.24.0           BiocNeighbors_1.2.0     
+##  [13] clue_0.3-57              proxy_0.4-23            
+##  [15] ggrepel_0.8.1            ranger_0.11.2           
+##  [17] splines_3.6.0            docopt_0.6.1            
+##  [19] robustbase_0.93-5        knitr_1.23              
+##  [21] cluster_2.0.9            pheatmap_1.0.12         
+##  [23] BiocManager_1.30.4       compiler_3.6.0          
+##  [25] assertthat_0.2.1         Matrix_1.2-17           
+##  [27] lazyeval_0.2.2           BiocSingular_1.0.0      
+##  [29] htmltools_0.3.6          tools_3.6.0             
+##  [31] rsvd_1.0.0               igraph_1.2.4.1          
+##  [33] misc3d_0.8-4             gtable_0.3.0            
+##  [35] glue_1.3.1               GenomeInfoDbData_1.2.1  
+##  [37] RANN_2.6.1               reshape2_1.4.3          
+##  [39] dplyr_0.8.1              ggthemes_4.2.0          
+##  [41] Rcpp_1.0.1               carData_3.0-2           
+##  [43] slam_0.1-45              DDRTree_0.1.5           
+##  [45] cellranger_1.1.0         JADE_2.0-1              
+##  [47] DelayedMatrixStats_1.6.0 lmtest_0.9-37           
+##  [49] laeken_0.5.0             xfun_0.7                
+##  [51] stringr_1.4.0            openxlsx_4.1.0          
+##  [53] irlba_2.3.3              isva_1.9                
+##  [55] DEoptimR_1.0-8           zoo_1.8-5               
+##  [57] zlibbioc_1.30.0          MASS_7.3-51.4           
+##  [59] scales_1.0.0             VIM_4.8.0               
+##  [61] hms_0.4.2                plot3D_1.1.1            
+##  [63] monocle_2.12.0           RColorBrewer_1.1-2      
+##  [65] yaml_2.2.0               curl_3.3                
+##  [67] gridExtra_2.3            fastICA_1.2-1           
+##  [69] stringi_1.4.3            e1071_1.7-1             
+##  [71] destiny_2.14.0           TTR_0.23-4              
+##  [73] boot_1.3-22              densityClust_0.3        
+##  [75] zip_2.0.2                rlang_0.3.4             
+##  [77] pkgconfig_2.0.2          bitops_1.0-6            
+##  [79] qlcMatrix_0.9.7          evaluate_0.13           
+##  [81] lattice_0.20-38          purrr_0.3.2             
+##  [83] tidyselect_0.2.5         plyr_1.8.4              
+##  [85] magrittr_1.5             bookdown_0.10           
+##  [87] R6_2.4.0                 combinat_0.0-8          
+##  [89] withr_2.1.2              pillar_1.4.0            
+##  [91] haven_2.1.0              foreign_0.8-71          
+##  [93] xts_0.11-2               scatterplot3d_0.3-41    
+##  [95] abind_1.4-5              RCurl_1.95-4.12         
+##  [97] sp_1.3-1                 nnet_7.3-12             
+##  [99] tibble_2.1.1             crayon_1.3.4            
+## [101] car_3.0-2                rmarkdown_1.12          
+## [103] viridis_0.5.1            readxl_1.3.1            
+## [105] grid_3.6.0               data.table_1.12.2       
+## [107] FNN_1.1.3                forcats_0.4.0           
+## [109] vcd_1.4-4                HSMMSingleCell_1.4.0    
+## [111] sparsesvd_0.1-4          digest_0.6.18           
+## [113] dbscan_1.1-3             munsell_0.5.0           
+## [115] beeswarm_0.2.3           viridisLite_0.3.0       
+## [117] smoother_1.1             vipor_0.4.5</code></pre>
 </div>
 <div id="references" class="section level1 unnumbered">
 <h1>References</h1>
